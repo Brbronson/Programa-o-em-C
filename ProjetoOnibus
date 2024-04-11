@@ -1,0 +1,8 @@
+TEMA / AREA: MOBILIDADE URBANA
+Nome: Brenda Krayevski
+Nome do projeto: Fechador automático para escotilha
+
+Dispositivo que fecha as escotilhas presentes na parte superior dos ônibus da cidade de Curitiba-PR através de sensores que captam informações meteorológicas no ponto em que o veículo está trafegando.
+
+Funcionamento:
+Os ônibus seriam equipados com sensores meteorológicos individuais para melhor precisão de dados. Com isso, seriam instalados válvulas pneumáticas que fechariam ou abririam as escotilhas com base no clima presente no local onde ônibus esta trafegando.  
