@@ -1,9 +1,0 @@
-Tipos de sensores:
-
-Sensores:
-Detectam e respondem a algum estimulo, e assim emitem um sinal para que outros componentes realizem a ação prtogramada para o sistema que esta inserido.
-Eles podem ser analogicos mede uma quantidade física ou fenómeno e fornece um sinal de saída que é diretamente proporcional à quantidade que está a ser medida, 
-ou digitais que mede uma quantidade física (como temperatura, pressão, luz ou humidade) e depois quantifica essa medição numa forma digital, ou seja, pega em 
-dados físicos analógicos e converte-os em valores digitais discretos, muitas vezes sob a forma de código binário (0s e 1s). 
-
-1. Sensores mecânicos:
